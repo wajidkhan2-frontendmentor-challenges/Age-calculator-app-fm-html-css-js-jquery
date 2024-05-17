@@ -9,7 +9,7 @@ desktop view\
 ![](./Screenshots/desktop.png)
 
 ### Demo
-[FireShot](https://getfireshot.com/)
+[FireShot](https://wajidkhan2-frontendmentor-challenges.github.io/Age-calculator-app-fm-html-css-js-jquery/)
 
 ### Built with
 - Mobile-first workflow
